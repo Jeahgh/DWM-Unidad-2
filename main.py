@@ -99,3 +99,8 @@ def eliminar_user(user_id: int):
     return{
         "detail": "Usuario eliminado"
     }
+
+
+
+
+
